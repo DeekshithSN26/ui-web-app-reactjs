@@ -2,13 +2,17 @@
 UI app to access microservices through API Gateway.
 Developed in React.js
 
+# prerequisite
+```
+you need to have node 8 to run this application 
+```
+
 ## Build Instruction
 ```
 npm install
 npm run build
-node server.js
-
 ```
+
 *App runs on port **8080***
 
 Open http://localhost:8080 in browser

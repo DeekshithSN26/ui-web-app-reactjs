@@ -2,7 +2,7 @@
 UI app to access microservices through API Gateway.
 Developed in React.js
 
-# prerequisite
+# Prerequisite
 ```
 you need to have node 8 to run this application 
 ```
